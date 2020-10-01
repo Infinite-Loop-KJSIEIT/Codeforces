@@ -1,1 +1,2 @@
 # Codeforces
+> The goal of the project is to create a comprehensive high quality problem set for the students of Infinite Loop for learning competitive programming. This contains problem statements from Codeforces. Codeforces is a website that hosts competitive programming contests. It is maintained by a group of competitive programmers from ITMO University led by Mikhail Mirzayanov.The current collection has many problems, and new problems will be gradually added. If you have any suggestions message us at [https://infiniteloop.club/]
